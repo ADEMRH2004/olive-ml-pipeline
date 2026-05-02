@@ -1,0 +1,1656 @@
+{
+  "generated_at": "2026-05-02T22:48:27.412328",
+  "parcel_count": 50,
+  "parcels": [
+    {
+      "id": "P0001",
+      "name": "Parcelle SFAX 1",
+      "crop": "olive",
+      "owner": "Owner_1",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 350.22,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.60407974682875,
+          "lng": 10.43129158026524
+        },
+        {
+          "lat": 34.60407974682875,
+          "lng": 10.448151179928674
+        },
+        {
+          "lat": 34.620939346492186,
+          "lng": 10.448151179928674
+        },
+        {
+          "lat": 34.620939346492186,
+          "lng": 10.43129158026524
+        },
+        {
+          "lat": 34.60407974682875,
+          "lng": 10.43129158026524
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0002",
+      "name": "Parcelle SFAX 2",
+      "crop": "olive",
+      "owner": "Owner_2",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 409.46,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.56340584488129,
+          "lng": 10.37090175437335
+        },
+        {
+          "lat": 34.56340584488129,
+          "lng": 10.389131502608898
+        },
+        {
+          "lat": 34.58163559311683,
+          "lng": 10.389131502608898
+        },
+        {
+          "lat": 34.58163559311683,
+          "lng": 10.37090175437335
+        },
+        {
+          "lat": 34.56340584488129,
+          "lng": 10.37090175437335
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0003",
+      "name": "Parcelle SFAX 3",
+      "crop": "olive",
+      "owner": "Owner_3",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 362.77,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.54194704445529,
+          "lng": 10.423543355837012
+        },
+        {
+          "lat": 34.54194704445529,
+          "lng": 10.440702327839542
+        },
+        {
+          "lat": 34.559106016457825,
+          "lng": 10.440702327839542
+        },
+        {
+          "lat": 34.559106016457825,
+          "lng": 10.423543355837012
+        },
+        {
+          "lat": 34.54194704445529,
+          "lng": 10.423543355837012
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0004",
+      "name": "Parcelle SFAX 4",
+      "crop": "olive",
+      "owner": "Owner_4",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 120.71,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.59184451599967,
+          "lng": 10.375354263397226
+        },
+        {
+          "lat": 34.59184451599967,
+          "lng": 10.385252221966637
+        },
+        {
+          "lat": 34.60174247456908,
+          "lng": 10.385252221966637
+        },
+        {
+          "lat": 34.60174247456908,
+          "lng": 10.375354263397226
+        },
+        {
+          "lat": 34.59184451599967,
+          "lng": 10.375354263397226
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0005",
+      "name": "Parcelle SFAX 5",
+      "crop": "olive",
+      "owner": "Owner_5",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 210.27,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.56895512095271,
+          "lng": 10.38797579277556
+        },
+        {
+          "lat": 34.56895512095271,
+          "lng": 10.40103946840097
+        },
+        {
+          "lat": 34.582018796578126,
+          "lng": 10.40103946840097
+        },
+        {
+          "lat": 34.582018796578126,
+          "lng": 10.38797579277556
+        },
+        {
+          "lat": 34.56895512095271,
+          "lng": 10.38797579277556
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0006",
+      "name": "Parcelle SFAX 6",
+      "crop": "olive",
+      "owner": "Owner_6",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 360.16,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.596801101772954,
+          "lng": 10.441001394908943
+        },
+        {
+          "lat": 34.596801101772954,
+          "lng": 10.458098661777937
+        },
+        {
+          "lat": 34.61389836864194,
+          "lng": 10.458098661777937
+        },
+        {
+          "lat": 34.61389836864194,
+          "lng": 10.441001394908943
+        },
+        {
+          "lat": 34.596801101772954,
+          "lng": 10.441001394908943
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0007",
+      "name": "Parcelle SFAX 7",
+      "crop": "olive",
+      "owner": "Owner_7",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 100.12,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.60771076205647,
+          "lng": 10.44438885388054
+        },
+        {
+          "lat": 34.60771076205647,
+          "lng": 10.453403175655836
+        },
+        {
+          "lat": 34.61672508383177,
+          "lng": 10.453403175655836
+        },
+        {
+          "lat": 34.61672508383177,
+          "lng": 10.44438885388054
+        },
+        {
+          "lat": 34.60771076205647,
+          "lng": 10.44438885388054
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0008",
+      "name": "Parcelle SFAX 8",
+      "crop": "olive",
+      "owner": "Owner_8",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 53.92,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.56271360933006,
+          "lng": 10.407946366371574
+        },
+        {
+          "lat": 34.56271360933006,
+          "lng": 10.414561554483035
+        },
+        {
+          "lat": 34.569328797441514,
+          "lng": 10.414561554483035
+        },
+        {
+          "lat": 34.569328797441514,
+          "lng": 10.407946366371574
+        },
+        {
+          "lat": 34.56271360933006,
+          "lng": 10.407946366371574
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0009",
+      "name": "Parcelle SFAX 9",
+      "crop": "olive",
+      "owner": "Owner_9",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 193.34,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.54730458570008,
+          "lng": 10.395225439849861
+        },
+        {
+          "lat": 34.54730458570008,
+          "lng": 10.407752324204415
+        },
+        {
+          "lat": 34.55983147005464,
+          "lng": 10.407752324204415
+        },
+        {
+          "lat": 34.55983147005464,
+          "lng": 10.395225439849861
+        },
+        {
+          "lat": 34.54730458570008,
+          "lng": 10.395225439849861
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0010",
+      "name": "Parcelle SFAX 10",
+      "crop": "olive",
+      "owner": "Owner_10",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 214.6,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.63511795379309,
+          "lng": 10.406323801922904
+        },
+        {
+          "lat": 34.63511795379309,
+          "lng": 10.419521448975297
+        },
+        {
+          "lat": 34.648315600845486,
+          "lng": 10.419521448975297
+        },
+        {
+          "lat": 34.648315600845486,
+          "lng": 10.406323801922904
+        },
+        {
+          "lat": 34.63511795379309,
+          "lng": 10.406323801922904
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0011",
+      "name": "Parcelle SFAX 11",
+      "crop": "olive",
+      "owner": "Owner_11",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 46.83,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.596604785360555,
+          "lng": 10.371668934023935
+        },
+        {
+          "lat": 34.596604785360555,
+          "lng": 10.377834050381532
+        },
+        {
+          "lat": 34.60276990171815,
+          "lng": 10.377834050381532
+        },
+        {
+          "lat": 34.60276990171815,
+          "lng": 10.371668934023935
+        },
+        {
+          "lat": 34.596604785360555,
+          "lng": 10.371668934023935
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0012",
+      "name": "Parcelle SFAX 12",
+      "crop": "olive",
+      "owner": "Owner_12",
+      "notes": "Zone SFAX \u2014 extensif olive grove",
+      "area_ha": 95.6,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 34.56483596733062,
+          "lng": 10.414798965020276
+        },
+        {
+          "lat": 34.56483596733062,
+          "lng": 10.423607459156093
+        },
+        {
+          "lat": 34.57364446146644,
+          "lng": 10.423607459156093
+        },
+        {
+          "lat": 34.57364446146644,
+          "lng": 10.414798965020276
+        },
+        {
+          "lat": 34.56483596733062,
+          "lng": 10.414798965020276
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0013",
+      "name": "Parcelle SAHEL 13",
+      "crop": "olive",
+      "owner": "Owner_13",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 382.55,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.67814329695161,
+          "lng": 10.591563090096596
+        },
+        {
+          "lat": 35.67814329695161,
+          "lng": 10.609183758313819
+        },
+        {
+          "lat": 35.69576396516883,
+          "lng": 10.609183758313819
+        },
+        {
+          "lat": 35.69576396516883,
+          "lng": 10.591563090096596
+        },
+        {
+          "lat": 35.67814329695161,
+          "lng": 10.591563090096596
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0014",
+      "name": "Parcelle SAHEL 14",
+      "crop": "olive",
+      "owner": "Owner_14",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 413.73,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.65628378302828,
+          "lng": 10.617597605378513
+        },
+        {
+          "lat": 35.65628378302828,
+          "lng": 10.635922255534243
+        },
+        {
+          "lat": 35.67460843318401,
+          "lng": 10.635922255534243
+        },
+        {
+          "lat": 35.67460843318401,
+          "lng": 10.617597605378513
+        },
+        {
+          "lat": 35.65628378302828,
+          "lng": 10.617597605378513
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0015",
+      "name": "Parcelle SAHEL 15",
+      "crop": "olive",
+      "owner": "Owner_15",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 275.6,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.69350106081825,
+          "lng": 10.677237004467989
+        },
+        {
+          "lat": 35.69350106081825,
+          "lng": 10.692193044805185
+        },
+        {
+          "lat": 35.708457101155446,
+          "lng": 10.692193044805185
+        },
+        {
+          "lat": 35.708457101155446,
+          "lng": 10.677237004467989
+        },
+        {
+          "lat": 35.69350106081825,
+          "lng": 10.677237004467989
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0016",
+      "name": "Parcelle SAHEL 16",
+      "crop": "olive",
+      "owner": "Owner_16",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 227.09,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.717389087986554,
+          "lng": 10.602361553756669
+        },
+        {
+          "lat": 35.717389087986554,
+          "lng": 10.61593756725594
+        },
+        {
+          "lat": 35.73096510148583,
+          "lng": 10.61593756725594
+        },
+        {
+          "lat": 35.73096510148583,
+          "lng": 10.602361553756669
+        },
+        {
+          "lat": 35.717389087986554,
+          "lng": 10.602361553756669
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0017",
+      "name": "Parcelle SAHEL 17",
+      "crop": "olive",
+      "owner": "Owner_17",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 150.65,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.69524837521694,
+          "lng": 10.68160508925619
+        },
+        {
+          "lat": 35.69524837521694,
+          "lng": 10.692662786082389
+        },
+        {
+          "lat": 35.70630607204314,
+          "lng": 10.692662786082389
+        },
+        {
+          "lat": 35.70630607204314,
+          "lng": 10.68160508925619
+        },
+        {
+          "lat": 35.69524837521694,
+          "lng": 10.68160508925619
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0018",
+      "name": "Parcelle SAHEL 18",
+      "crop": "olive",
+      "owner": "Owner_18",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 160.88,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.704104984112945,
+          "lng": 10.600211741626776
+        },
+        {
+          "lat": 35.704104984112945,
+          "lng": 10.611638586842325
+        },
+        {
+          "lat": 35.7155318293285,
+          "lng": 10.611638586842325
+        },
+        {
+          "lat": 35.7155318293285,
+          "lng": 10.600211741626776
+        },
+        {
+          "lat": 35.704104984112945,
+          "lng": 10.600211741626776
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0019",
+      "name": "Parcelle SAHEL 19",
+      "crop": "olive",
+      "owner": "Owner_19",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 374.26,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.67358926789909,
+          "lng": 10.606305606180312
+        },
+        {
+          "lat": 35.67358926789909,
+          "lng": 10.62373433963378
+        },
+        {
+          "lat": 35.69101800135256,
+          "lng": 10.62373433963378
+        },
+        {
+          "lat": 35.69101800135256,
+          "lng": 10.606305606180312
+        },
+        {
+          "lat": 35.67358926789909,
+          "lng": 10.606305606180312
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0020",
+      "name": "Parcelle SAHEL 20",
+      "crop": "olive",
+      "owner": "Owner_20",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 250.54,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.68081467530396,
+          "lng": 10.690744846590048
+        },
+        {
+          "lat": 35.68081467530396,
+          "lng": 10.705004730292197
+        },
+        {
+          "lat": 35.69507455900611,
+          "lng": 10.705004730292197
+        },
+        {
+          "lat": 35.69507455900611,
+          "lng": 10.690744846590048
+        },
+        {
+          "lat": 35.68081467530396,
+          "lng": 10.690744846590048
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0021",
+      "name": "Parcelle SAHEL 21",
+      "crop": "olive",
+      "owner": "Owner_21",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 294.88,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.702770473676296,
+          "lng": 10.656064506372143
+        },
+        {
+          "lat": 35.702770473676296,
+          "lng": 10.671534809785523
+        },
+        {
+          "lat": 35.718240777089676,
+          "lng": 10.671534809785523
+        },
+        {
+          "lat": 35.718240777089676,
+          "lng": 10.656064506372143
+        },
+        {
+          "lat": 35.702770473676296,
+          "lng": 10.656064506372143
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0022",
+      "name": "Parcelle SAHEL 22",
+      "crop": "olive",
+      "owner": "Owner_22",
+      "notes": "Zone SAHEL \u2014 intensif olive grove",
+      "area_ha": 107.8,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.66040185418404,
+          "lng": 10.639354398986013
+        },
+        {
+          "lat": 35.66040185418404,
+          "lng": 10.648708294451625
+        },
+        {
+          "lat": 35.669755749649646,
+          "lng": 10.648708294451625
+        },
+        {
+          "lat": 35.669755749649646,
+          "lng": 10.639354398986013
+        },
+        {
+          "lat": 35.66040185418404,
+          "lng": 10.639354398986013
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0023",
+      "name": "Parcelle MIDWEST 23",
+      "crop": "olive",
+      "owner": "Owner_23",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 470.89,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.080475033453055,
+          "lng": 9.449895613035833
+        },
+        {
+          "lat": 35.080475033453055,
+          "lng": 9.469445205750516
+        },
+        {
+          "lat": 35.10002462616774,
+          "lng": 9.469445205750516
+        },
+        {
+          "lat": 35.10002462616774,
+          "lng": 9.449895613035833
+        },
+        {
+          "lat": 35.080475033453055,
+          "lng": 9.449895613035833
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0024",
+      "name": "Parcelle MIDWEST 24",
+      "crop": "olive",
+      "owner": "Owner_24",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 128.34,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.06639746316524,
+          "lng": 9.512073575690776
+        },
+        {
+          "lat": 35.06639746316524,
+          "lng": 9.522279456831482
+        },
+        {
+          "lat": 35.076603344305944,
+          "lng": 9.522279456831482
+        },
+        {
+          "lat": 35.076603344305944,
+          "lng": 9.512073575690776
+        },
+        {
+          "lat": 35.06639746316524,
+          "lng": 9.512073575690776
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0025",
+      "name": "Parcelle MIDWEST 25",
+      "crop": "olive",
+      "owner": "Owner_25",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 75.78,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.13348639190429,
+          "lng": 9.512300163123188
+        },
+        {
+          "lat": 35.13348639190429,
+          "lng": 9.520142784544502
+        },
+        {
+          "lat": 35.14132901332561,
+          "lng": 9.520142784544502
+        },
+        {
+          "lat": 35.14132901332561,
+          "lng": 9.512300163123188
+        },
+        {
+          "lat": 35.13348639190429,
+          "lng": 9.512300163123188
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0026",
+      "name": "Parcelle MIDWEST 26",
+      "crop": "olive",
+      "owner": "Owner_26",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 428.77,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.12518001457009,
+          "lng": 9.535167399597126
+        },
+        {
+          "lat": 35.12518001457009,
+          "lng": 9.553822234631868
+        },
+        {
+          "lat": 35.14383484960483,
+          "lng": 9.553822234631868
+        },
+        {
+          "lat": 35.14383484960483,
+          "lng": 9.535167399597126
+        },
+        {
+          "lat": 35.12518001457009,
+          "lng": 9.535167399597126
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0027",
+      "name": "Parcelle MIDWEST 27",
+      "crop": "olive",
+      "owner": "Owner_27",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 93.14,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.10262467032115,
+          "lng": 9.460198750911314
+        },
+        {
+          "lat": 35.10262467032115,
+          "lng": 9.46889323984087
+        },
+        {
+          "lat": 35.11131915925071,
+          "lng": 9.46889323984087
+        },
+        {
+          "lat": 35.11131915925071,
+          "lng": 9.460198750911314
+        },
+        {
+          "lat": 35.10262467032115,
+          "lng": 9.460198750911314
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0028",
+      "name": "Parcelle MIDWEST 28",
+      "crop": "olive",
+      "owner": "Owner_28",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 89.6,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.13852670098531,
+          "lng": 9.500968781277585
+        },
+        {
+          "lat": 35.13852670098531,
+          "lng": 9.509496516255869
+        },
+        {
+          "lat": 35.1470544359636,
+          "lng": 9.509496516255869
+        },
+        {
+          "lat": 35.1470544359636,
+          "lng": 9.500968781277585
+        },
+        {
+          "lat": 35.13852670098531,
+          "lng": 9.500968781277585
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0029",
+      "name": "Parcelle MIDWEST 29",
+      "crop": "olive",
+      "owner": "Owner_29",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 240.65,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.13141782949833,
+          "lng": 9.507169310600931
+        },
+        {
+          "lat": 35.13141782949833,
+          "lng": 9.521145030443565
+        },
+        {
+          "lat": 35.145393549340966,
+          "lng": 9.521145030443565
+        },
+        {
+          "lat": 35.145393549340966,
+          "lng": 9.507169310600931
+        },
+        {
+          "lat": 35.13141782949833,
+          "lng": 9.507169310600931
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0030",
+      "name": "Parcelle MIDWEST 30",
+      "crop": "olive",
+      "owner": "Owner_30",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 107.78,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.08295235912422,
+          "lng": 9.48641910372694
+        },
+        {
+          "lat": 35.08295235912422,
+          "lng": 9.495771952704485
+        },
+        {
+          "lat": 35.09230520810176,
+          "lng": 9.495771952704485
+        },
+        {
+          "lat": 35.09230520810176,
+          "lng": 9.48641910372694
+        },
+        {
+          "lat": 35.08295235912422,
+          "lng": 9.48641910372694
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0031",
+      "name": "Parcelle MIDWEST 31",
+      "crop": "olive",
+      "owner": "Owner_31",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 194.0,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.04753161715143,
+          "lng": 9.531347769293228
+        },
+        {
+          "lat": 35.04753161715143,
+          "lng": 9.543895992328627
+        },
+        {
+          "lat": 35.06007984018682,
+          "lng": 9.543895992328627
+        },
+        {
+          "lat": 35.06007984018682,
+          "lng": 9.531347769293228
+        },
+        {
+          "lat": 35.04753161715143,
+          "lng": 9.531347769293228
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0032",
+      "name": "Parcelle MIDWEST 32",
+      "crop": "olive",
+      "owner": "Owner_32",
+      "notes": "Zone MIDWEST \u2014 hyper_intensif olive grove",
+      "area_ha": 336.19,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 35.09650424548239,
+          "lng": 9.473957056539039
+        },
+        {
+          "lat": 35.09650424548239,
+          "lng": 9.490475605417007
+        },
+        {
+          "lat": 35.11302279436036,
+          "lng": 9.490475605417007
+        },
+        {
+          "lat": 35.11302279436036,
+          "lng": 9.473957056539039
+        },
+        {
+          "lat": 35.09650424548239,
+          "lng": 9.473957056539039
+        }
+      ],
+      "_gt_intensity": "hyper_intensif"
+    },
+    {
+      "id": "P0033",
+      "name": "Parcelle NORTH 33",
+      "crop": "olive",
+      "owner": "Owner_33",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 50.86,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.54930723501949,
+          "lng": 9.18400607519583
+        },
+        {
+          "lat": 36.54930723501949,
+          "lng": 9.190430979317208
+        },
+        {
+          "lat": 36.555732139140865,
+          "lng": 9.190430979317208
+        },
+        {
+          "lat": 36.555732139140865,
+          "lng": 9.18400607519583
+        },
+        {
+          "lat": 36.54930723501949,
+          "lng": 9.18400607519583
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0034",
+      "name": "Parcelle NORTH 34",
+      "crop": "olive",
+      "owner": "Owner_34",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 284.99,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.554684885110234,
+          "lng": 9.239110498429467
+        },
+        {
+          "lat": 36.554684885110234,
+          "lng": 9.254319148650007
+        },
+        {
+          "lat": 36.56989353533078,
+          "lng": 9.254319148650007
+        },
+        {
+          "lat": 36.56989353533078,
+          "lng": 9.239110498429467
+        },
+        {
+          "lat": 36.554684885110234,
+          "lng": 9.239110498429467
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0035",
+      "name": "Parcelle NORTH 35",
+      "crop": "olive",
+      "owner": "Owner_35",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 408.99,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.58371236017899,
+          "lng": 9.193264346331093
+        },
+        {
+          "lat": 36.58371236017899,
+          "lng": 9.211483675251001
+        },
+        {
+          "lat": 36.601931689098905,
+          "lng": 9.211483675251001
+        },
+        {
+          "lat": 36.601931689098905,
+          "lng": 9.193264346331093
+        },
+        {
+          "lat": 36.58371236017899,
+          "lng": 9.193264346331093
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0036",
+      "name": "Parcelle NORTH 36",
+      "crop": "olive",
+      "owner": "Owner_36",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 298.75,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.57663527608623,
+          "lng": 9.201243307615593
+        },
+        {
+          "lat": 36.57663527608623,
+          "lng": 9.216814888842348
+        },
+        {
+          "lat": 36.59220685731298,
+          "lng": 9.216814888842348
+        },
+        {
+          "lat": 36.59220685731298,
+          "lng": 9.201243307615593
+        },
+        {
+          "lat": 36.57663527608623,
+          "lng": 9.201243307615593
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0037",
+      "name": "Parcelle NORTH 37",
+      "crop": "olive",
+      "owner": "Owner_37",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 344.17,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.577184646019404,
+          "lng": 9.19355311696665
+        },
+        {
+          "lat": 36.577184646019404,
+          "lng": 9.210266580332549
+        },
+        {
+          "lat": 36.59389810938531,
+          "lng": 9.210266580332549
+        },
+        {
+          "lat": 36.59389810938531,
+          "lng": 9.19355311696665
+        },
+        {
+          "lat": 36.577184646019404,
+          "lng": 9.19355311696665
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0038",
+      "name": "Parcelle NORTH 38",
+      "crop": "olive",
+      "owner": "Owner_38",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 447.97,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.631383995652904,
+          "lng": 9.155572292061528
+        },
+        {
+          "lat": 36.631383995652904,
+          "lng": 9.174640163553832
+        },
+        {
+          "lat": 36.650451867145215,
+          "lng": 9.174640163553832
+        },
+        {
+          "lat": 36.650451867145215,
+          "lng": 9.155572292061528
+        },
+        {
+          "lat": 36.631383995652904,
+          "lng": 9.155572292061528
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0039",
+      "name": "Parcelle NORTH 39",
+      "crop": "olive",
+      "owner": "Owner_39",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 370.78,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.541844198769326,
+          "lng": 9.216624062547554
+        },
+        {
+          "lat": 36.541844198769326,
+          "lng": 9.233971438171997
+        },
+        {
+          "lat": 36.559191574393765,
+          "lng": 9.233971438171997
+        },
+        {
+          "lat": 36.559191574393765,
+          "lng": 9.216624062547554
+        },
+        {
+          "lat": 36.541844198769326,
+          "lng": 9.216624062547554
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0040",
+      "name": "Parcelle NORTH 40",
+      "crop": "olive",
+      "owner": "Owner_40",
+      "notes": "Zone NORTH \u2014 intensif olive grove",
+      "area_ha": 373.61,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 36.55496961120829,
+          "lng": 9.183183571145353
+        },
+        {
+          "lat": 36.55496961120829,
+          "lng": 9.200597159037283
+        },
+        {
+          "lat": 36.57238319910023,
+          "lng": 9.200597159037283
+        },
+        {
+          "lat": 36.57238319910023,
+          "lng": 9.183183571145353
+        },
+        {
+          "lat": 36.55496961120829,
+          "lng": 9.183183571145353
+        }
+      ],
+      "_gt_intensity": "intensif"
+    },
+    {
+      "id": "P0041",
+      "name": "Parcelle SOUTH 41",
+      "crop": "olive",
+      "owner": "Owner_41",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 360.38,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.44287595336178,
+          "lng": 9.804295029179944
+        },
+        {
+          "lat": 33.44287595336178,
+          "lng": 9.821397360393316
+        },
+        {
+          "lat": 33.45997828457514,
+          "lng": 9.821397360393316
+        },
+        {
+          "lat": 33.45997828457514,
+          "lng": 9.804295029179944
+        },
+        {
+          "lat": 33.44287595336178,
+          "lng": 9.804295029179944
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0042",
+      "name": "Parcelle SOUTH 42",
+      "crop": "olive",
+      "owner": "Owner_42",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 103.6,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.496715393903344,
+          "lng": 9.817999977676228
+        },
+        {
+          "lat": 33.496715393903344,
+          "lng": 9.827169906433989
+        },
+        {
+          "lat": 33.5058853226611,
+          "lng": 9.827169906433989
+        },
+        {
+          "lat": 33.5058853226611,
+          "lng": 9.817999977676228
+        },
+        {
+          "lat": 33.496715393903344,
+          "lng": 9.817999977676228
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0043",
+      "name": "Parcelle SOUTH 43",
+      "crop": "olive",
+      "owner": "Owner_43",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 89.26,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.4655962726063,
+          "lng": 9.782056852862066
+        },
+        {
+          "lat": 33.4655962726063,
+          "lng": 9.790568537248006
+        },
+        {
+          "lat": 33.474107956992235,
+          "lng": 9.790568537248006
+        },
+        {
+          "lat": 33.474107956992235,
+          "lng": 9.782056852862066
+        },
+        {
+          "lat": 33.4655962726063,
+          "lng": 9.782056852862066
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0044",
+      "name": "Parcelle SOUTH 44",
+      "crop": "olive",
+      "owner": "Owner_44",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 242.41,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.47759281488797,
+          "lng": 9.837799077117804
+        },
+        {
+          "lat": 33.47759281488797,
+          "lng": 9.851825735164361
+        },
+        {
+          "lat": 33.49161947293453,
+          "lng": 9.851825735164361
+        },
+        {
+          "lat": 33.49161947293453,
+          "lng": 9.837799077117804
+        },
+        {
+          "lat": 33.47759281488797,
+          "lng": 9.837799077117804
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0045",
+      "name": "Parcelle SOUTH 45",
+      "crop": "olive",
+      "owner": "Owner_45",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 460.3,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.47434253030713,
+          "lng": 9.767488185545927
+        },
+        {
+          "lat": 33.47434253030713,
+          "lng": 9.786816738415832
+        },
+        {
+          "lat": 33.49367108317704,
+          "lng": 9.786816738415832
+        },
+        {
+          "lat": 33.49367108317704,
+          "lng": 9.767488185545927
+        },
+        {
+          "lat": 33.47434253030713,
+          "lng": 9.767488185545927
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0046",
+      "name": "Parcelle SOUTH 46",
+      "crop": "olive",
+      "owner": "Owner_46",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 215.24,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.48783916228096,
+          "lng": 9.841430816404316
+        },
+        {
+          "lat": 33.48783916228096,
+          "lng": 9.854648133771803
+        },
+        {
+          "lat": 33.501056479648454,
+          "lng": 9.854648133771803
+        },
+        {
+          "lat": 33.501056479648454,
+          "lng": 9.841430816404316
+        },
+        {
+          "lat": 33.48783916228096,
+          "lng": 9.841430816404316
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0047",
+      "name": "Parcelle SOUTH 47",
+      "crop": "olive",
+      "owner": "Owner_47",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 331.33,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.49391724097512,
+          "lng": 9.831454680444097
+        },
+        {
+          "lat": 33.49391724097512,
+          "lng": 9.847853424299107
+        },
+        {
+          "lat": 33.51031598483013,
+          "lng": 9.847853424299107
+        },
+        {
+          "lat": 33.51031598483013,
+          "lng": 9.831454680444097
+        },
+        {
+          "lat": 33.49391724097512,
+          "lng": 9.831454680444097
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0048",
+      "name": "Parcelle SOUTH 48",
+      "crop": "olive",
+      "owner": "Owner_48",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 412.38,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.49891797136935,
+          "lng": 9.783517635367698
+        },
+        {
+          "lat": 33.49891797136935,
+          "lng": 9.801812265399555
+        },
+        {
+          "lat": 33.51721260140121,
+          "lng": 9.801812265399555
+        },
+        {
+          "lat": 33.51721260140121,
+          "lng": 9.783517635367698
+        },
+        {
+          "lat": 33.49891797136935,
+          "lng": 9.783517635367698
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0049",
+      "name": "Parcelle SOUTH 49",
+      "crop": "olive",
+      "owner": "Owner_49",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 59.72,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.48768360752583,
+          "lng": 9.838794950151994
+        },
+        {
+          "lat": 33.48768360752583,
+          "lng": 9.8457569650817
+        },
+        {
+          "lat": 33.49464562245554,
+          "lng": 9.8457569650817
+        },
+        {
+          "lat": 33.49464562245554,
+          "lng": 9.838794950151994
+        },
+        {
+          "lat": 33.48768360752583,
+          "lng": 9.838794950151994
+        }
+      ],
+      "_gt_intensity": "extensif"
+    },
+    {
+      "id": "P0050",
+      "name": "Parcelle SOUTH 50",
+      "crop": "olive",
+      "owner": "Owner_50",
+      "notes": "Zone SOUTH \u2014 extensif olive grove",
+      "area_ha": 459.57,
+      "created_at": "2023-01-15T10:00:00Z",
+      "modified_at": "2023-06-01T10:00:00Z",
+      "coordinates": [
+        {
+          "lat": 33.48334311882105,
+          "lng": 9.792294914618715
+        },
+        {
+          "lat": 33.48334311882105,
+          "lng": 9.81160804935686
+        },
+        {
+          "lat": 33.50265625355919,
+          "lng": 9.81160804935686
+        },
+        {
+          "lat": 33.50265625355919,
+          "lng": 9.792294914618715
+        },
+        {
+          "lat": 33.48334311882105,
+          "lng": 9.792294914618715
+        }
+      ],
+      "_gt_intensity": "extensif"
+    }
+  ]
+}
