@@ -9,10 +9,11 @@ env/
 .venv/
 
 # Model files (large binary files)
-models/*.pkl
-models/*.pth
-models/*.h5
-models/*.joblib
+# Keeping .pkl files to track trained models
+# *.pkl
+# *.pth
+# *.h5
+# *.joblib
 
 # Data files (sensitive or large)
 *.csv
